@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\bin\Debug\pppzZadatakCetri.exe.config
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\bin\Debug\pppzZadatakCetri.exe
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\bin\Debug\pppzZadatakCetri.pdb
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\obj\Debug\pppzZadatakCetri.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\obj\Debug\pppzZadatakCetri.exe
+C:\Users\unkno\source\repos\pppzZadatakCetri\pppzZadatakCetri\obj\Debug\pppzZadatakCetri.pdb
